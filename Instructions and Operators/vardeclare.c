@@ -11,4 +11,7 @@ int main(){
     int new_age = oldage + years;
     
     printf ("%d \n%d \n%d \n%d",a,b,c,d);
+
+    int x,y,z;
+    x=y=z=4;
 }
